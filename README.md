@@ -11,8 +11,6 @@
 ## Create a dashboard according to the mock-up provided by stakeholders.
 ## Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-## Resources
-
 ## Dataset
 ## In the Dataset we have :
 > * CUSTOMER_CSV
